@@ -3,8 +3,9 @@ US English (en-US), Español (es), Français (fr), Deutsch (de), Italiano (il), 
 
 ## Translation Credits
 ### US English
-Original language - created by themirrazz!
+* [themirrazz](https://m.stretch.wtf/)
 ### Español (Spanish)
+* [themirrazz](https://m.stretch.wtf/)
 ### Français (French)
 * [Kelbazz](https://github.com/kelbazz)
 ### Deutsch (German)
