@@ -1,5 +1,5 @@
 # Server Rules
-US English (en-US), Español (es), Français (fr), Deutsch (de), Italiano (il), 日本語 (ja), 简体中文 (zh-CN), 繁體中文 (zh-HK), 한국인 (kr), Tiếng Việt (vi) العربية (ar)
+US English (en-US), Español (es), Français (fr), Deutsch (de), Italiano (il), 日本語 (ja), 简体中文 (zh-CN), 繁體中文 (zh-HK), 한국인 (kr), Tiếng Việt (vi) العربية (ar), Українська (uk-UA)
 
 ## Translation Credits
 ### US English
@@ -17,3 +17,4 @@ US English (en-US), Español (es), Français (fr), Deutsch (de), Italiano (il), 
 ### 한국인 (Korean)
 ### Tiếng Việt (Vietnamese)
 ### (Arabic) العربية
+### Українська (Ukranian)
